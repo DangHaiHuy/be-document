@@ -1,0 +1,4 @@
+jwt:
+  SIGNER_KEY: iQBnylT5IDMzpbAPkP2RAGoW4k+4+xD6IoABJcBAQ1Q9FWU6xzf5mgSd4bSVBd5b
+  valid-duration: 3600
+  refreshable-duration: 7200
